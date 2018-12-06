@@ -457,8 +457,8 @@ input:-webkit-autofill:focus {
 .video-area {
     background-image: url('images/video-bg.jpg');
     background-repeat: no-repeat;
-    background-position: left center;
-    background-size: auto 80%;
+    background-position: left top;
+    background-size: auto 50%;
     margin-bottom: 120px;
 }
 
@@ -481,6 +481,11 @@ input:-webkit-autofill:focus {
     transform: translate(-50%, -50%);
     border-radius: 50%;
 }
+/* Deliverables area */
+
+.deliverables-area {
+    background-color: #5E88FC;
+}
 
 /*-- 10. Feature-Area --*/
 
@@ -500,6 +505,7 @@ input:-webkit-autofill:focus {
 
 .feature-area .mobile-image {
     margin-bottom: -142px;
+    text-align: center;
 }
 
 /*-- 11. Service-Box --*/
