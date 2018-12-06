@@ -458,7 +458,7 @@ input:-webkit-autofill:focus {
     background-image: url('images/video-bg.jpg');
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: auto 60%;
+    background-size: auto 80%;
     margin-bottom: 120px;
 }
 
